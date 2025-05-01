@@ -38,6 +38,14 @@ You can download the latest version of Wait for Yay!.
 
 * **Windows only:** Download the `.exe` file. Double-click it to run the installer. You might see a security warning because the app isn't "signed" (a more advanced step) - you may need to click "More info" -> "Run anyway".
 
+## Support Me
+
+If you enjoy using Wait for Yay! and would like to show your appreciation, feel free to support me on Ko-fi!
+
+[![Ko-fi Badge](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/assassinsenpai)
+
+Any support helps keep development going and is greatly appreciated! ☕
+
 ---
 
 ## Technology
