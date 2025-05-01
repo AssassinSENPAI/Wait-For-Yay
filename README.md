@@ -32,7 +32,7 @@ You can download the latest version of Wait for Yay!.
 
 **Direct Download Links:**
 
-* 
+* [Latest!](https://github.com/AssassinSENPAI/Wait-For-Yay/releases/download/1.0.0/Wait.for.Yay.Setup.1.0.0.exe)
 
 **Basic Installation:**
 
