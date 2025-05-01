@@ -28,7 +28,7 @@ It's perfect for anyone who loves gentle reminders, needs a little boost, or wan
 
 You can download the latest version of Wait for Yay!.
 
-**➡️ [Go to Latest Releases]([link-to-your-github-releases-page](https://github.com/AssassinSENPAI/Wait-For-Yay/releases/tag/1.0.0))** ⬅️
+**➡️ [Go to Latest Releases](https://github.com/AssassinSENPAI/Wait-For-Yay/releases/tag/1.0.0)** ⬅️
 
 **Direct Download Links:**
 
@@ -51,4 +51,4 @@ Built with:
 
 ---
 
-*(Optional: Add a section about yourself or how to contribute if you like)*
+*TYSMM! （＞人＜；）*
